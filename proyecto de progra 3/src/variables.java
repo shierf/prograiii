@@ -1,7 +1,8 @@
 public class variables {
     public int edad = 20;
     private String password = "123456pwd";
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         int edad = 20;
         String password ="123456pwd" ;
         String mi ="mi primer programa ";
