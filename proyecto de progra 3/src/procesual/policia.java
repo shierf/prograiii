@@ -35,7 +35,7 @@ public class policia extends persona {
 
         }
     }
-    public String[] getDestinos(){
+    public String[] getdes(){
         return this.destinos;
     }
 

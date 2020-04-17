@@ -39,7 +39,7 @@ public class profesor extends persona{
         }
     }
 
-    public String verificaCiudad(String[] destinos){
+    public String verifi(String[] destinos){
         String respuesta = "No trabajaron en la misma ciudad";
 
         for(int i=0; i<destinos.length; i++){
