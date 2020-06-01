@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d7649b6-3fe1-4783-8490-979e9c96b717" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../hito2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hito2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hito2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../spring/demo/src/main/java/com/spring/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../spring/demo/src/main/java/com/spring/demo/model/ModelPersona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../spring/demo/src/main/java/com/spring/demo/model/interfaceModelPers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../spring/demo/src/main/java/com/spring/demo/services/interfaceServices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../spring/demo/src/main/java/com/spring/demo/services/servicisesPersona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../proyecto de progra 3/src/procesual/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto de progra 3/src/procesual/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../proyecto de progra 3/src/procesual/policia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto de progra 3/src/procesual/policia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../proyecto de progra 3/src/procesual/profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../proyecto de progra 3/src/procesual/profesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hito4/avances/swring/src/main/java/com/progra32020/swring/GUI/Frame/MaunFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hito4/avances/swring/src/main/java/com/progra32020/swring/GUI/Panels/EmptyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hito4/avances/swring/src/main/java/com/progra32020/swring/Model/ButtonModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hito4/avances/swring/src/main/java/com/progra32020/swring/Repo/ButtonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hito4/avances/swring/src/main/java/com/progra32020/swring/Service/ButtonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Hito4/avances/swring/src/main/java/com/progra32020/swring/Service/ButtonServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../examen/hito3Examen/src/main/java/com/hito3Examen/hito3Examen/Services/VirusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../examen/hito3Examen/src/main/java/com/hito3Examen/hito3Examen/Services/VirusService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectId" id="1aaUgqI9Q5q7HNVyo1PoPVtaqIM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../virus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />

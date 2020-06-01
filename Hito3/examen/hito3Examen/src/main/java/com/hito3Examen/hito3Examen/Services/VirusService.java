@@ -57,7 +57,7 @@ public class VirusService implements VirusInterfaceService {
 
 
         }
-        return virusUpdate;
+        return virusRepo.save(virusUpdate);
     }
     @Override
     public Integer delete(){
