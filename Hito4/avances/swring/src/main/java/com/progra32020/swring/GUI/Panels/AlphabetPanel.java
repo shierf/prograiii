@@ -15,6 +15,8 @@ import java.util.List;
 public class AlphabetPanel extends JPanel{
     @Autowired
     private AlphabetService alphabetService;
+    @Autowired
+    private AlphabetModel alphabetModel;
     public AlphabetPanel(){
         this.setPreferredSize(new Dimension(600,100));
         this.setBackground(Color.blue);
@@ -25,17 +27,18 @@ public class AlphabetPanel extends JPanel{
         JPanel mainPanel = new JPanel();
         mainPanel.setLayout(new FlowLayout());
 
+
         List<AlphabetModel> alllTitles = alphabetService.getAllLettersFirst();
-        alllTitles.forEach(alphabetModel -> {
-            String[] letterButtons =  alphabetModel.getLetter().split(";");
-            for (String title : letterButtons){
+        String[] tittlealphabet = alllTitles.get(0).getLetter().split(";");
+            for (String title : tittlealphabet){
                 JButton button = new JButton(title);
-                button.setPreferredSize(new Dimension(100,45));
-                mainPanel.add(button);
-            }
+               button.setPreferredSize(new Dimension(100,45));
+               mainPanel.add(button);
 
-        });
-        this.add(mainPanel);
-
+                this.add(mainPanel);
     }
+
+       }
 }
+
+

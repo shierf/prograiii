@@ -27,7 +27,7 @@ public class AlphabetService implements AlphabetServiceInterface {
 
     @Override
     public List<AlphabetModel> getAllLettersFirst() {
-        return new ArrayList<AlphabetModel>(alphabetRepository.findAll());
+        return alphabetRepository.Alphabeobt();
 
     }
 

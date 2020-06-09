@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61a70ed1-87ef-4bb7-bea8-40d2712105f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examen/hito4/src/main/java/defensa4/hito4/Model/AlphabetModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examen/hito4/src/main/java/defensa4/hito4/Model/DicceModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examen/hito4/src/main/java/defensa4/hito4/Service/AlphabetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examen/hito4/src/main/java/defensa4/hito4/Service/AlphabetServiceInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hito3/avanzes/coronavirus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hito3/avanzes/coronavirus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swring/src/main/java/com/progra32020/swring/GUI/Panels/AlphabetPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swring/src/main/java/com/progra32020/swring/GUI/Panels/AlphabetPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swring/src/main/java/com/progra32020/swring/Repo/AlphabetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swring/src/main/java/com/progra32020/swring/Repo/AlphabetRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swring/src/main/java/com/progra32020/swring/Service/AlphabetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swring/src/main/java/com/progra32020/swring/Service/AlphabetService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1d3BQjAOGPjxR0xxpIxGMPnGYc3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61a70ed1-87ef-4bb7-bea8-40d2712105f6" name="Default Changelist" comment="" />
+      <created>1591643881604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591643881604</updated>
+    </task>
+    <servers />
+  </component>
+</project>
